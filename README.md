@@ -2,7 +2,7 @@
 This is the official repository for our paper, "When to Trust Depth:A Self-Supervised Uncertainty-Driven Mixture-of-Experts Network for Underwater RGB-D Semantic Segmentation".
 # Architecture and Details
 <img width="1545" height="798" alt="image" src="https://github.com/user-attachments/assets/3c3c3e11-818b-47c2-88a5-558816ad05ea" />
-<img width="804" height="429" alt="image" src="https://github.com/user-attachments/assets/62c662c2-8196-408f-bdbf-d75176534ee9" />
+<img width="765" height="486" alt="image" src="https://github.com/user-attachments/assets/77ed8cad-2d53-4b7c-a012-19e09951fca7" />
 <img width="639" height="522" alt="image" src="https://github.com/user-attachments/assets/bf5a8901-8c2e-4de3-92c6-052ee8de0958" />
 # Results
 <img width="1602" height="486" alt="image" src="https://github.com/user-attachments/assets/1989c6d8-0750-45ec-87cb-12b9f0b75735" />
