@@ -1,5 +1,5 @@
 # SUMENet
-This is the official repository for our paper, "When to Trust Depth:A Self-Supervised Uncertainty-Driven Mixture-of-Experts Network for Underwater RGB-D Semantic Segmentation".
+This is the official repository for our paper, "".
 # Architecture and Details
 <img width="1545" height="798" alt="image" src="https://github.com/user-attachments/assets/3c3c3e11-818b-47c2-88a5-558816ad05ea" />
 <img width="765" height="486" alt="image" src="https://github.com/user-attachments/assets/77ed8cad-2d53-4b7c-a012-19e09951fca7" />
